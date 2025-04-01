@@ -1538,7 +1538,7 @@
 	</section>
 
 	<!-- how to get into cyber security -->
-	<section class="-mt-20 flex flex-col p-8">
+	<section class="-mt-12 flex flex-col p-8">
 		<Header header="getting into cyber security" direction="start" />
 
 		<div class="mt-12 flex flex-row gap-4">
